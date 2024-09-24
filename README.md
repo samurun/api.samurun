@@ -23,8 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+API built with NestJS and PostgreSQL, designed to handle data management and backend services for [fadl4n.com](https://fadl4n.com).
 
 ## Installation
 
